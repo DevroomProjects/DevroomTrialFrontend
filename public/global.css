@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+html, body {
+	margin: 0;
+	font-family: 'Montserrat';
+	background-color: #EBF4FF;
+}
+
+button{
+	border: 0;
+	background-color: #2DBC3B;
+	border-radius: 5px;
+	padding: 7px;
+	color: #fff;
+}
+
+button:hover{
+	background-color: #28a034;
+}
+
+input{
+	padding: 7px;
+	padding-left: 11px;
+	padding-right: 11px;
+	background-color: #E6E6E6;
+	border-radius: 5px;
+	outline: none;
+}
+
+select{
+	padding: 7px;
+	padding-left: 11px;
+	padding-right: 11px;
+	background-color: #E6E6E6;
+	border-radius: 5px;
+	outline: none;
+}
